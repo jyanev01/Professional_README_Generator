@@ -49,36 +49,36 @@ function generateMarkdown(data) {
   return `# ${data.title}
   # ${license}
 
-  ## Description
+  # Description
   ${data.description}
 
   ## Table of Contents
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [License] (#license)
-  * [Contributions] (#contributions)
-  * [Tests] (#test)
-  * [Contact] (#contact)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [Contact](#contact)
 
   
 
-  ## Installation
+  # Installation
   * INSTALL: npm install
   * RUN: node index.js
 
-  ## Usage
+  # Usage
   ${data.usage}
 
-  ## License
+  # License
   ${license}
 
-  ## Contributions
-  ${data.contributions}
+  # Contributions
+  ${data.contributors}
 
-  ## Tests
-  ${data.tests}
+  # Tests
+  ${data.test}
 
-  ## Contact
+  # Contact
   If you have any questions please contact me ${data.name} at: ${data.email} 
   For more projects please visit my GitHub : https://github.com/${data.github}
 `;
