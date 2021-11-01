@@ -1,8 +1,8 @@
-# Run_Buddy
+# Run Buddy
   # MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Description
-  Webpage utilizing HTML and CSS
+  Webpage made using HTML and CSS
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,7 +19,7 @@
   * RUN: node index.js
 
   # Usage
-  Prompts user to enter name and contact infromation
+  Captures user input for use- requires name, email address and contact
 
   # License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
