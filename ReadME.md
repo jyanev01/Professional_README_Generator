@@ -1,8 +1,11 @@
-# Run Buddy
+# Professional ReadMe Generator
   # MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Description
-  Webpage made using HTML and CSS
+  Utilize Node.JS to create a professional ReadMe through command prompt
+
+  # Demo
+  <img src='https://github.com/jyanev01/Professional_README_Generator/blob/main/demo/ReadME.md_video.gif?raw=true'/>
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,7 +22,7 @@
   * RUN: node index.js
 
   # Usage
-  Captures user input for use- requires name, email address and contact
+  Follow the prompts in the command terminal to automatically create a README
 
   # License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
